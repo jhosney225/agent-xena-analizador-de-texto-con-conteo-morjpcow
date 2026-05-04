@@ -1,0 +1,6 @@
+{
+  "name": "agent-xena-analizador-de-texto-con-conteo-morjpcow",
+  "version": "1.0.0",
+  "description": "Proyecto de Xena [Gen6]: analizador de texto con conteo de palabras y estadisticas",
+  "main": "index.js"
+}
